@@ -1,0 +1,11 @@
+.greenbox{
+  margin: 2px;
+  padding: 2px;
+  border: 2px dotted green;
+}
+
+.redbox{
+  margin: 2px;
+  padding: 2px;
+  border: 2px dotted red;
+}
