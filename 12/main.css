@@ -1,0 +1,46 @@
+body,html,header{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+header{
+  width:100%;
+  height: 20vh;
+  text-align:center;
+  font-size: 5rem;
+  padding-top: 2rem;
+  background-color: white;
+ color:#2F9AFA;
+  font-family: Times;
+}
+section{
+  padding: 2rem;
+  border-bottom: 1px solid white;
+  /* temp */
+}
+form{
+  font-family: sans-serif;
+  background-color: #2F9AFA;
+  color:white;
+}
+.result{
+  min-height: 5rem;
+  background-color:rgba(200,200,200,.5);
+  font-size: 3rem;
+  text-align: center;
+  padding-top:1rem;
+  color:#2F9AFA;
+  display:none;
+
+  /* temp */
+
+}
+
+#subbut{
+  display: flex;
+  justify-content:center;
+}
+.ans{
+  margin-bottom: 5px;
+}

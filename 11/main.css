@@ -1,0 +1,23 @@
+
+.formstyle{
+  width:300px;
+  padding: 10px;
+  margin: 10 auto;
+  background: grey;
+}
+input{
+  padding: 0;
+  border: 0;
+}
+/* #username{
+  border: 2px solid blue;
+} */
+#usunb{
+  background-color: lightblue;
+}
+.redbox{
+  color:red;
+}
+.greenbox{
+    color: green;
+}
