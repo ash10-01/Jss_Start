@@ -1,0 +1,50 @@
+.container{
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  background-color: lightgrey;
+}
+.heading{
+  font-weight: 400;
+  color: grey;
+}
+.location{
+  color:grey;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.tform{
+  margin: 1rem 0;
+  padding: .2rem 0;
+  width: 190px;
+}
+.image{
+  height: 300px;
+  width: 300px;
+}
+.card{
+   border-radius: 4px;
+   background-color: white;
+   /* display: none; */
+  /* temp */
+  /* border: 2px solid hotpink; */
+}
+.details{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  padding-bottom: 1rem;
+}
+.temp{
+    font-size: 1.3rem;
+}
+.disnone{
+  display: none;
+}
+.icon{
+  background-color: lightgrey;
+  border-radius: 100%;
+}

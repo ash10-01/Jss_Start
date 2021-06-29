@@ -1,0 +1,11 @@
+const date=new Date();
+const past=new Date('1999');
+console.log(date);
+console.log(dateFns.isToday(date));
+console.log(dateFns.format(date,'D/MM/YYYY'));
+console.log(dateFns.format(date,'MMMM'));
+console.log(dateFns.format(date,'YY'));
+console.log(dateFns.format(date,'ddd'));
+console.log(dateFns.format(date,'dddd'));
+console.log(dateFns.format(date,'mm'));
+console.log(dateFns.distanceInWords(date,past));
